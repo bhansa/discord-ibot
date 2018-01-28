@@ -1,0 +1,10 @@
+{
+  "name": "Discord ibot",
+  "version": "1.0.0",
+  "description": "Discord interactive bot",
+  "main": "bot.js",
+  "author": "bhansa",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
